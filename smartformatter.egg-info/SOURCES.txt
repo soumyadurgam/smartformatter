@@ -1,0 +1,7 @@
+setup.py
+smartformatter/__init__.py
+smartformatter/core.py
+smartformatter.egg-info/PKG-INFO
+smartformatter.egg-info/SOURCES.txt
+smartformatter.egg-info/dependency_links.txt
+smartformatter.egg-info/top_level.txt
